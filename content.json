@@ -1,0 +1,630 @@
+{
+  "title": "TinyStroke Creator Brief",
+  "summary": "Everything you need to film a TinyStroke video that sells: every winning ad as a moving preview, the two to recreate shot by shot, ready-to-use scripts, and how to deliver.",
+  "previewNote": "Private preview. Rose reviews this before it goes to creators.",
+  "welcome": {
+    "heading": "Welcome",
+    "body": "Thanks for creating with TinyStroke! We're a small family brand, and our best ads all look like a real parent filming on their phone at home, not like a commercial. This page shows you exactly what has worked for us so you can make something that works for you too.",
+    "oneLineLabel": "The one-line brief",
+    "oneLine": "Show a real parent proving, on camera, that these crayons don't break, show up bright, and wipe right off the wall."
+  },
+  "product": {
+    "heading": "The product",
+    "facts": [
+      {
+        "label": "Name",
+        "value": "TinyStroke™ Washable Twist Crayons (silky crayons)"
+      },
+      {
+        "label": "Colors",
+        "value": "36 bold, vibrant colors (pack sizes vary)"
+      },
+      {
+        "label": "Twist-up",
+        "value": "No sharpening, no snapping, no paper to peel"
+      },
+      {
+        "label": "Washable",
+        "value": "Wipes off walls, cabinets, clothes and surfaces with a wet cloth"
+      },
+      {
+        "label": "Safe",
+        "value": "Non-toxic and kid-friendly"
+      },
+      {
+        "label": "Grip",
+        "value": "Chunky shape made for little hands"
+      },
+      {
+        "label": "Comes in",
+        "value": "A sturdy tub-style case to store them"
+      },
+      {
+        "label": "Social proof",
+        "value": "Loved by 20,000+ parents"
+      },
+      {
+        "label": "Product page",
+        "value": "tinystroke.com/products/tinystrokes-washable-twist-crayons",
+        "href": "https://tinystroke.com/products/tinystrokes-washable-twist-crayons"
+      }
+    ]
+  },
+  "filming": {
+    "heading": "What we're looking for",
+    "items": [
+      "Vertical 9:16, filmed handheld on your phone (iPhone-style), not a tripod studio setup.",
+      "Candid and real: your own kitchen, table, wall or playroom. A little mess is good.",
+      "Voice-led: you talking to camera or a voiceover carries the video. No background music needed.",
+      "Bright, natural light (near a window) so the colors pop on camera.",
+      "Real use: your child coloring, or your hands showing the crayons up close.",
+      "Proof on camera: twist it, try to snap it, scribble on a wall and wipe it off in one take.",
+      "Short and fast: 15 to 45 seconds, a new shot every 2 to 3 seconds."
+    ]
+  },
+  "heroes": [
+    {
+      "id": "1358423239411618",
+      "heading": "Hero ad 1: Why your toddler doesn't like to draw",
+      "caption": "31 seconds, creator on camera in her kitchen.",
+      "video": "videos/1358423239411618.mp4",
+      "poster": "videos/1358423239411618.jpg",
+      "libraryUrl": "https://www.facebook.com/ads/library/?id=1358423239411618",
+      "libraryLabel": "Open hero ad 1 in the Meta Ad Library",
+      "shots": [
+        [
+          "0–2s",
+          "Close-up: regular crayon held right at the lens. Text: pov: your toddler finally wants to color",
+          "This is why your toddler doesn't want to color."
+        ],
+        [
+          "2–6s",
+          "Notebook: faint regular-crayon scribble next to a bold silky one",
+          "You can barely see it… look how much more vibrant that is."
+        ],
+        [
+          "6–12s",
+          "Twists and pushes on the crayon",
+          "Toddlers are always doing this. You literally cannot break them, no matter how hard you try."
+        ],
+        [
+          "12–15s",
+          "Talking to camera, crayon in hand",
+          "Twistable, non-toxic, and they're washable."
+        ],
+        [
+          "15–24s",
+          "Scribbles on her white cabinet, wipes it with a wet washcloth",
+          "You didn't believe me? Here's my white cabinet… here's my wet washcloth. It comes right off."
+        ],
+        [
+          "24–31s",
+          "Holds the tub up to camera",
+          "They come in this nice case. The 36 count is the only pack left because they keep selling out. I would hurry."
+        ]
+      ],
+      "why": "Why it works: it names the parent's real problem (my kid won't color) and blames the crayon, not the child. The live wipe test on a white cabinet is the moment that sells."
+    },
+    {
+      "id": "1153889843882079",
+      "heading": "Hero ad 2: Toddler-proof crayons",
+      "caption": "38 seconds, voiceover over hands-only footage.",
+      "video": "videos/1153889843882079.mp4",
+      "poster": "videos/1153889843882079.jpg",
+      "libraryUrl": "https://www.facebook.com/ads/library/?id=1153889843882079",
+      "libraryLabel": "Open hero ad 2 in the Meta Ad Library",
+      "shots": [
+        [
+          "0–2s",
+          "Hand holds a cup of ordinary crayons. Text: Toddler proof crayons exist. I am shocked too.",
+          "How dare they reinvent the crayon?"
+        ],
+        [
+          "2–6s",
+          "The 36 tub, then both sets side by side on a coloring page",
+          "There are three reasons why these are so much more popular than these."
+        ],
+        [
+          "6–10s",
+          "Twisting a crayon up, pile of crayons on the table",
+          "Number one: they don't snap in half."
+        ],
+        [
+          "10–20s",
+          "Coloring page split in half: regular crayon vs silky crayon",
+          "See how this is the color of the crayon? Look how much more vibrant… and so much smoother."
+        ],
+        [
+          "20–26s",
+          "Scribble on the tub or surface, wipe with a damp tissue",
+          "These are washable."
+        ],
+        [
+          "26–34s",
+          "Coloring cute pages (donut, pickles), squiggle lines",
+          "Three of the four pack options are sold out. Don't mess up like me: I got the 6 pack, then had to get the 36."
+        ],
+        [
+          "34–38s",
+          "Full tub, lid on, arrow pointing down",
+          "Don't miss these, they're 50% off right now."
+        ]
+      ],
+      "why": "Why it works: a bold claim plus surprise in the first second, a numbered list that keeps people watching, a side-by-side comparison you can't argue with, and a personal \"I upgraded\" story before the offer."
+    }
+  ],
+  "gallery": {
+    "heading": "All winning ads",
+    "caption": "Every ad from our winning-creatives list, grouped by pattern. Each card plays in place with sound. Notes are from the actual footage.",
+    "intro": "Scroll through these before you film. Pick the pattern that fits your home and style, then use the matching script template below."
+  },
+  "groups": [
+    {
+      "id": "compare",
+      "heading": "Pattern 1: \"They can't see the color\" side-by-side",
+      "intro": "The most common winner. Old crayon vs silky crayon on the same notepad, then a break test and a wipe.",
+      "ads": [
+        {
+          "id": "1607735973613354",
+          "title": "American vs UK crayon (hands only)",
+          "video": "videos/1607735973613354.mp4",
+          "poster": "videos/1607735973613354.jpg",
+          "hook": "Text: pov your toddler WANTS to color now. Says: \"American crayon versus the British crayon.\"",
+          "scene": "Notepad comparison, push test, scribble on a white cabinet and wipe, ends writing HURRY",
+          "length": "29s",
+          "ran": "Oct 29 – Nov 23, 2026",
+          "why": "Same script as hero 1, but hands only: proves the script works without a face on camera",
+          "link": "https://www.facebook.com/ads/library/?id=1607735973613354",
+          "note": "Listed twice in the sheet (rows 2 and 11)."
+        },
+        {
+          "id": "1640816990918063",
+          "title": "American vs British crayon (kitchen)",
+          "video": "videos/1640816990918063.mp4",
+          "poster": "videos/1640816990918063.jpg",
+          "hook": "Text: American vs British crayon. Says: \"What's the difference between American crayons and British crayons?\"",
+          "scene": "Talking to camera at the kitchen counter, notepad, break test, wall scribble wiped with a wet rag",
+          "length": "45s",
+          "ran": "Nov 3 – 23, 2026",
+          "why": "A curiosity question as the hook, plus a tantrum pain point and the wall test",
+          "link": "https://www.facebook.com/ads/library/?id=1640816990918063"
+        },
+        {
+          "id": "1065649446028305",
+          "title": "This is bad, but this is good",
+          "video": "videos/1065649446028305.mp4",
+          "poster": "videos/1065649446028305.jpg",
+          "hook": "Text: pov: this is why your toddler doesn't want to color. Says: \"This is bad, but this is good\" (repeated)",
+          "scene": "Male creator, notepad comparison, wall scribble, close-up of the open tub",
+          "length": "46s",
+          "ran": "Jun 28 – Aug 3, 2026",
+          "why": "A rhythmic repeated line stops the scroll; adds the money angle (no more rebuying crayons)",
+          "link": "https://www.facebook.com/ads/library/?id=1065649446028305"
+        },
+        {
+          "id": "1377625734422870",
+          "title": "Screen-free + mess-free",
+          "video": "videos/1377625734422870.mp4",
+          "poster": "videos/1377625734422870.jpg",
+          "hook": "Text: screen + mess free = mom wins. Says: \"This is why your toddler doesn't like to draw.\"",
+          "scene": "Kitchen counter, regular crayons vs silky on a notepad, push test, wipe with a cloth",
+          "length": "23s",
+          "ran": "Jun 29 – Aug 3, 2026",
+          "why": "Short and dense: problem, proof, wipe and scarcity in 23 seconds",
+          "link": "https://www.facebook.com/ads/library/?id=1377625734422870"
+        },
+        {
+          "id": "1584409556355625",
+          "title": "Your child can't see these crayons",
+          "video": "videos/1584409556355625.mp4",
+          "poster": "videos/1584409556355625.jpg",
+          "hook": "Says: \"Your child can't see these crayons.\"",
+          "scene": "Male creator, faint vs bold scribble on paper, crayon to camera, wipe, tub to lens",
+          "length": "15s",
+          "ran": "Jun 27 – Aug 3, 2026",
+          "why": "The shortest winner: same beats as hero 1 cut to 15 seconds",
+          "link": "https://www.facebook.com/ads/library/?id=1584409556355625"
+        },
+        {
+          "id": "1707659893606049",
+          "title": "Draws more than 2 minutes now",
+          "video": "videos/1707659893606049.mp4",
+          "poster": "videos/1707659893606049.jpg",
+          "hook": "Text: pov: your child draws for more than 2 mins now. Says: \"This is why your child doesn't want to draw.\"",
+          "scene": "Male creator, orange crayon vs silky on notepad, break test, wipe on a book, tub",
+          "length": "25s",
+          "ran": "Jun 28 – Jul 7, 2026",
+          "why": "The payoff is in the text: a child who keeps coloring longer",
+          "link": "https://www.facebook.com/ads/library/?id=1707659893606049"
+        },
+        {
+          "id": "reel_1Hwt4JrCGN",
+          "title": "Comment reply (Facebook reel)",
+          "video": "videos/reel_1Hwt4JrCGN.mp4",
+          "poster": "videos/reel_1Hwt4JrCGN.jpg",
+          "hook": "Comment sticker from a parent on screen. Says: \"This is why your toddler doesn't want to draw, because they literally can't see the colors.\"",
+          "scene": "Hands only on white paper: regular vs silky lines, twist, wipe off a hand, the 36 tub",
+          "length": "21s",
+          "ran": "Dates not shown (shared reel link)",
+          "why": "Answering a real comment makes it feel like social proof, not an ad",
+          "link": "https://www.facebook.com/share/r/1Hwt4JrCGN/"
+        },
+        {
+          "id": "1969265434476787",
+          "title": "They just hate their crayons",
+          "video": "videos/1969265434476787.mp4",
+          "poster": "videos/1969265434476787.jpg",
+          "hook": "Text: Your child doesn't hate coloring, they just hate their crayons!",
+          "scene": "Talking to camera with the open tub, notepad comparisons, snap test, wall scribble wiped with a paper towel",
+          "length": "66s",
+          "ran": "Sep 1 – 27, 2026",
+          "why": "Reframes the problem in the first line; covers the mouth worry with non-toxic and repeats the hook at the end",
+          "link": "https://www.facebook.com/ads/library/?id=1969265434476787"
+        }
+      ]
+    },
+    {
+      "id": "hands",
+      "heading": "Pattern 2: Hands-only demo (no face)",
+      "intro": "Tabletop footage with a voiceover or captions. Easy to film and easy to remix.",
+      "ads": [
+        {
+          "id": "2535778470229588",
+          "title": "Toddler-proof crayons (cut 2)",
+          "video": "videos/2535778470229588.mp4",
+          "poster": "videos/2535778470229588.jpg",
+          "hook": "Text: Toddler proof crayons exist. I am shocked too. Says: \"How dare they reinvent the crayon?\"",
+          "scene": "Same voiceover as hero 2 with a different opening (tub on a bookshelf), caption kept on screen the whole time",
+          "length": "38s",
+          "ran": "Sep 1 – 14, 2026",
+          "why": "Shows the hero 2 script still works with new opening footage: worth recutting",
+          "link": "https://www.facebook.com/ads/library/?id=2535778470229588"
+        },
+        {
+          "id": "1600498891510596",
+          "title": "Regular crayon vs silky crayon",
+          "video": "videos/1600498891510596.mp4",
+          "poster": "videos/1600498891510596.jpg",
+          "hook": "Says: \"Regular crayon versus a silky crayon. That is crazy.\"",
+          "scene": "Split coloring page (cereal bowl, cupcake), crayons in the tub, row of crayons",
+          "length": "30s",
+          "ran": "Aug 5 – 20, 2026",
+          "why": "Pure visual proof; adds clean hands and the chunky grip as benefits",
+          "link": "https://www.facebook.com/ads/library/?id=1600498891510596"
+        },
+        {
+          "id": "1588738989667851",
+          "title": "Teaching your toddler to color",
+          "video": "videos/1588738989667851.mp4",
+          "poster": "videos/1588738989667851.jpg",
+          "hook": "Says: \"If you're teaching your toddler how to color, do not use crayons that are like this.\" Word-by-word captions.",
+          "scene": "Tidy table with plants, doodles on a sketch pad, the tub",
+          "length": "14s",
+          "ran": "Oct 11 – 29, 2026",
+          "why": "A \"don't do this\" warning hook framed as a parenting tip",
+          "link": "https://www.facebook.com/ads/library/?id=1588738989667851"
+        }
+      ]
+    },
+    {
+      "id": "wall",
+      "heading": "Pattern 3: Wall, door and cabinet wipe",
+      "intro": "Let the child (or yourself) draw on a wall or door, then wipe it off on camera.",
+      "ads": [
+        {
+          "id": "1808551956855652",
+          "title": "Yes, I'm that mom",
+          "video": "videos/1808551956855652.mp4",
+          "poster": "videos/1808551956855652.jpg",
+          "hook": "Says: \"Yes, I'm that mom that lets her kids color all over the walls.\" Text: pov your toddler finally wants to color",
+          "scene": "Sitting on the floor by a white door, scribbles on it, notepad comparison, wipes with one baby wipe",
+          "length": "35s",
+          "ran": "Oct 30 – Nov 22, 2026",
+          "why": "A confession hook that sounds like a bad idea, then proves it isn't",
+          "link": "https://www.facebook.com/ads/library/?id=1808551956855652"
+        },
+        {
+          "id": "1996180324632019",
+          "title": "Toddler moms, watch this",
+          "video": "videos/1996180324632019.mp4",
+          "poster": "videos/1996180324632019.jpg",
+          "hook": "Text: toddler moms you can thank me later. Says: \"Toddler moms, watch this.\"",
+          "scene": "Draws a smiley on the wall, wipes it off, then notepad comparison, break test, tub",
+          "length": "48s",
+          "ran": "Nov 9, 2026 – still active",
+          "why": "Leads with the most visual proof (the wall wipe) before explaining anything",
+          "link": "https://www.facebook.com/ads/library/?id=1996180324632019"
+        },
+        {
+          "id": "1892131371743542",
+          "title": "Can't see the colors (wall opener)",
+          "video": "videos/1892131371743542.mp4",
+          "poster": "videos/1892131371743542.jpg",
+          "hook": "Opens on a crayon scribble on a white wall. Says: \"If your kids don't enjoy coloring, it's probably because they can't see the colors.\"",
+          "scene": "Notepad comparison, wipes a coloring book and the wall with a yellow cloth, open tub",
+          "length": "46s",
+          "ran": "Jun 30 – Aug 3, 2026",
+          "why": "Combines both top angles (can't see the color, wipes off walls) in one video",
+          "link": "https://www.facebook.com/ads/library/?id=1892131371743542"
+        }
+      ]
+    },
+    {
+      "id": "price",
+      "heading": "Pattern 4: Price objection",
+      "intro": "Answers \"why are they so expensive?\" by adding up the cost of cheap crayons.",
+      "ads": [
+        {
+          "id": "2108269896521583",
+          "title": "Why are they so expensive?",
+          "video": "videos/2108269896521583.mp4",
+          "poster": "videos/2108269896521583.jpg",
+          "hook": "Says: \"Why are they so expensive? Let me break it down for you.\"",
+          "scene": "TinyStroke-branded crayon to camera, faint vs bold notepad, broken regular crayons in hand, cabinet wipe, TinyStroke tub",
+          "length": "53s",
+          "ran": "Nov 10, 2026 – still active",
+          "why": "Turns the price into a saving; ends on the buy 3, get 2 free offer plus a free coloring book",
+          "link": "https://www.facebook.com/ads/library/?id=2108269896521583",
+          "note": "The sheet's script for this row is a Mello claw-clip reference; the actual video is this TinyStroke version."
+        }
+      ]
+    },
+    {
+      "id": "gift",
+      "heading": "Pattern 5: Gift and real toddler use",
+      "intro": "Christmas gift angle and real children coloring at home.",
+      "ads": [
+        {
+          "id": "2714929955572025",
+          "title": "A gift they'll actually use",
+          "video": "videos/2714929955572025.mp4",
+          "poster": "videos/2714929955572025.jpg",
+          "hook": "Opens unwrapping a gift. Says: \"If you have a toddler to buy for on your gift list, you need to get them these.\"",
+          "scene": "Gift wrap, notepad comparison, wall wipe, tub full of colors",
+          "length": "34s",
+          "ran": "Nov 15, 2026 – still active",
+          "why": "Same proof beats, framed as a gift that won't end up at the bottom of the toy bin",
+          "link": "https://www.facebook.com/ads/library/?id=2714929955572025",
+          "note": "Marked Christmas in the sheet."
+        },
+        {
+          "id": "4553583628193682",
+          "title": "The Christmas gift that makes kids scream",
+          "video": "videos/4553583628193682.mp4",
+          "poster": "videos/4553583628193682.jpg",
+          "hook": "Caption: I found the Christmas gift that makes kids scream. Then: stop scrolling!",
+          "scene": "Captioned tabletop demo on coloring books, a short talking-head clip, Black Friday offer on screen",
+          "length": "30s",
+          "ran": "Oct 29 – Nov 25, 2026",
+          "why": "Captions carry the whole story, so it works with the sound off; spells out the offer (buy 3, get 2 free)",
+          "link": "https://www.facebook.com/ads/library/?id=4553583628193682",
+          "note": "Marked Christmas in the sheet."
+        }
+      ]
+    }
+  ],
+  "realUse": {
+    "id": "reallife",
+    "heading": "Same creator, two real-use ads",
+    "caption": "Ad A and Ad B are the same toddler and high chair, filmed as two separate ads.",
+    "ads": [
+      {
+        "id": "910602088399764",
+        "title": "Ad A: If it entertains them",
+        "video": "videos/910602088399764.mp4",
+        "poster": "videos/910602088399764.jpg",
+        "hook": "Says: \"I'm in the stage of parenthood where if it entertains them, I truly don't care.\"",
+        "scene": "Toddler coloring in a high chair, crayons all over the counter, wipe off the tray, sticky-note close-up",
+        "length": "46s",
+        "ran": "Sep 1 – 30, 2026",
+        "why": "Real child, real mess, 30 minutes of coloring: relatable and calm",
+        "link": "https://www.facebook.com/ads/library/?id=910602088399764"
+      },
+      {
+        "id": "1773835650299835",
+        "title": "Ad B: The coolest thing ever",
+        "video": "videos/1773835650299835.mp4",
+        "poster": "videos/1773835650299835.jpg",
+        "hook": "Says: \"These twistable silky crayons are seriously the coolest thing ever.\"",
+        "scene": "Same toddler and high chair, twist close-ups, wipe off the tray, gift angle",
+        "length": "44s",
+        "ran": "Aug 7 – 31, 2026",
+        "why": "Real use by a toddler, plus the twist mechanism up close",
+        "link": "https://www.facebook.com/ads/library/?id=1773835650299835"
+      }
+    ]
+  },
+  "shared": {
+    "heading": "What all our winners share",
+    "caption": "Main pattern across the 21 different videos in our winning-creatives list, including the two heroes",
+    "bars": [
+      {
+        "label": "Can't see the color, side-by-side",
+        "value": 9
+      },
+      {
+        "label": "Hands-only demo",
+        "value": 4
+      },
+      {
+        "label": "Wall, door or cabinet wipe",
+        "value": 3
+      },
+      {
+        "label": "Gift and real toddler use",
+        "value": 4
+      },
+      {
+        "label": "Price objection",
+        "value": 1
+      }
+    ],
+    "points": [
+      "The hook blames old crayons, not the child: \"this is why your toddler doesn't want to color\".",
+      "Proof beats claims: side-by-side color, a twist-and-push break test, and a wipe test, all on camera.",
+      "Nearly every ad shows a wipe test: wall, door, cabinet, tray or hand.",
+      "Three benefits in this order: unbreakable, vibrant and smooth, washable. Non-toxic is a quick add.",
+      "One short text line on screen in the first second, usually a POV line.",
+      "Every ad ends on scarcity or an offer: packs keep selling out, it's on sale, don't wait."
+    ]
+  },
+  "scripts": {
+    "heading": "Script templates",
+    "intro": "Use these as a starting point and say them in your own words. Film each hook as a separate take so we can test them.",
+    "items": [
+      {
+        "title": "A. Toddler-proof, 3 reasons (from hero ad 2)",
+        "body": "HOOK (0-3s)\nText on screen: Toddler proof crayons exist. I am shocked too.\nSay: \"How dare they reinvent the crayon?\"\n\nBODY (3-28s)\n\"There are three reasons these are so much better than these.\"\n1. Try to snap one, twist it up: \"They don't break, they don't snap in half.\"\n2. Color half a page with each: \"Look how much more vibrant and smooth these are.\"\n3. Scribble on a surface, wipe it off: \"And they're washable.\"\n\nCTA (28-38s)\n\"I first got a small pack and had to go back for the 36 because they're that good.\nThey keep selling out and they're on sale right now, so don't wait.\""
+      },
+      {
+        "title": "B. Why your toddler doesn't like to draw (from hero ad 1)",
+        "body": "HOOK (0-3s)\nText on screen: pov: your toddler finally wants to color\nHold a regular crayon right up to the lens.\nSay: \"This is why your toddler doesn't want to color.\"\n\nBODY (3-24s)\nScribble with both in a notebook: \"They can barely see it. Look how much brighter this is.\"\nPush and twist hard: \"Toddlers are always doing this. You cannot break these.\"\n\"Twistable, non-toxic, and washable. Don't believe me?\"\nScribble on a white cabinet or wall, wipe with a wet cloth: \"Comes right off.\"\n\nCTA (24-31s)\nHold up the tub: \"They come in this nice case. They keep selling out, so I would hurry.\""
+      },
+      {
+        "title": "C. Yes, I'm that mom (wall test)",
+        "body": "HOOK (0-3s)\nText on screen: pov: your toddler finally wants to color\nScribble on a white door or wall. Say: \"Yes, I'm that mom that lets her kids color all over the walls.\"\n\nBODY (3-28s)\n\"And no, I don't freak out, because I only buy these silky crayons.\"\nNotepad: \"Old crayons, you can barely see that. New silky crayons.\"\nSnap test: \"Old crayons break just like that. Silky crayons do not break.\"\nWipe the wall in one take: \"All it takes is one baby wipe.\"\n\nCTA (28-35s)\n\"They've sold out a few times, but they just restocked. Grab them before they sell out again.\""
+      }
+    ]
+  },
+  "hooks": {
+    "heading": "Hook bank",
+    "caption": "Opening lines from our winning ads. Pick 3 and film each as its own opening.",
+    "items": [
+      "Toddler proof crayons exist. I am shocked too.",
+      "pov: this is why your toddler doesn't want to color",
+      "pov: your toddler finally wants to color",
+      "Your child doesn't hate coloring, they just hate their crayons",
+      "pov: your child draws for more than 2 mins now",
+      "American vs British crayon",
+      "Yes, I'm that mom that lets her kids color all over the walls",
+      "Toddler moms, watch this",
+      "Why are they so expensive? Let me break it down for you",
+      "This is bad, but this is good",
+      "If you're teaching your toddler how to color, do not use crayons like this",
+      "I found the Christmas gift that makes kids scream",
+      "Screen-free + mess-free = mom wins"
+    ]
+  },
+  "dos": {
+    "heading": "Do's and don'ts",
+    "dos": [
+      "Film in natural daylight so colors look bright",
+      "Show the wipe test in one continuous take",
+      "Put a regular crayon next to ours for comparison",
+      "Keep the camera close: hands, crayon tips, the page",
+      "Talk like you're telling a friend, not reading",
+      "Leave 1 second of silence at the start and end of each clip"
+    ],
+    "donts": [
+      "No background music, filters or heavy effects",
+      "No horizontal video or studio lighting",
+      "Don't name or show other crayon brands",
+      "Don't promise discounts or prices we didn't confirm",
+      "Don't leave a child unattended with the crayons on camera"
+    ],
+    "claimsLabel": "Product claims",
+    "claims": "Stick to the claims in our winning ads: twistable, doesn't snap, washable, non-toxic, vibrant colors. Any wording on age suitability or safety certifications is to be confirmed by Rose."
+  },
+  "deliverables": {
+    "heading": "Deliverables",
+    "items": [
+      {
+        "label": "Main video",
+        "value": "1 full video, 25–40 seconds, 9:16 vertical, 1080×1920"
+      },
+      {
+        "label": "Hooks",
+        "value": "3 different hook takes (first 3 seconds), each as its own clip"
+      },
+      {
+        "label": "Raw files",
+        "value": "All raw clips, unedited, no text or music baked in"
+      },
+      {
+        "label": "B-roll",
+        "value": "Close-ups: twisting, snap test, side-by-side coloring, wall wipe, the tub"
+      },
+      {
+        "label": "Format",
+        "value": "MP4 or MOV, highest quality your phone records"
+      }
+    ]
+  },
+  "submit": {
+    "heading": "How to submit",
+    "steps": [
+      {
+        "title": "Send your shipping address",
+        "detail": "We ship your crayon set right away and share the tracking."
+      },
+      {
+        "title": "Film within the deadline",
+        "detail": "Use one of the script templates and record 3 hook takes."
+      },
+      {
+        "title": "Upload everything to one folder",
+        "detail": "Upload link to be confirmed by Rose (Google Drive or WeTransfer). Name files with your name and take number."
+      },
+      {
+        "title": "Send us the link",
+        "detail": "Contact channel to be confirmed by Rose (email or WhatsApp)."
+      },
+      {
+        "title": "Feedback and revisions",
+        "detail": "We review your files and send notes. Revision terms to be confirmed by Rose."
+      }
+    ],
+    "questionsLabel": "Questions?",
+    "questions": "Reach out before you film if anything is unclear. We'd rather help early than reshoot later."
+  },
+  "nav": [
+    {
+      "id": "welcome",
+      "label": "Welcome"
+    },
+    {
+      "id": "product",
+      "label": "The product"
+    },
+    {
+      "id": "look",
+      "label": "What we're looking for"
+    },
+    {
+      "id": "hero1",
+      "label": "Hero ad 1"
+    },
+    {
+      "id": "hero2",
+      "label": "Hero ad 2"
+    },
+    {
+      "id": "gallery",
+      "label": "All winning ads"
+    },
+    {
+      "id": "patterns",
+      "label": "What winners share"
+    },
+    {
+      "id": "scripts",
+      "label": "Script templates"
+    },
+    {
+      "id": "hooks",
+      "label": "Hook bank"
+    },
+    {
+      "id": "dos",
+      "label": "Do's and don'ts"
+    },
+    {
+      "id": "deliverables",
+      "label": "Deliverables"
+    },
+    {
+      "id": "submit",
+      "label": "How to submit"
+    }
+  ]
+}
